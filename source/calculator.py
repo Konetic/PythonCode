@@ -15,4 +15,4 @@ match color:
     case Color.BLUE:
         print("I'm feeling the blues :(")
     case Color.WHITE:
-        print("reall blode is from scandenvian")
+        print("real blonde is from scandenvian")
