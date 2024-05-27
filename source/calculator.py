@@ -4,6 +4,7 @@ class Color(Enum):
     RED = 'red'
     GREEN = 'green'
     BLUE = 'blue'
+    WHITE = 'white'
 # enumeration
 color = Color(input("Enter your choice of 'red', 'blue' or 'green': "))
 
@@ -15,4 +16,4 @@ match color:
     case Color.BLUE:
         print("I'm feeling the blues :(")
     case Color.WHITE:
-        print("reall blode is from scandenvian")
+        print("real blonde is from scandenvian")
