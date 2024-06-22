@@ -1,0 +1,13 @@
+<data date = "2024-101-10">
+<stock>
+<name>Microsoft</name>
+<ticker>MSFT</ticker>
+<price>200.25</price>
+</stock>
+
+<stock>
+<name>Apple</name>
+<ticker>AAPL</ticker>
+<price>100.99</price>
+</stock>
+</data>
