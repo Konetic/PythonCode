@@ -4,6 +4,7 @@
 import os
 import uuid
 from bs4 import BeautifulSoup
+import redirect
 
 
 with open('help.txt', 'w') as f:
